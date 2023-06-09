@@ -79,7 +79,7 @@ def main():
         df["SkinCancer"]= (0 if skin_canc == "No" else 1)
         
        
-        print(df.to_markdown())
+        # print(df.to_markdown())
         return df
 
 
@@ -113,12 +113,14 @@ def main():
         To predict your heart disease status, simply follow the steps bellow:
         1. Enter the parameters that best describe you;
         2. Press the "Predict" button and wait for the result.
+
+        You can find your BMI (Body Mass Index) by inserting your height and weight [here](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/metric_bmi_calculator/bmi_calculator.html).         
             
         **Keep in mind that this results is not equivalent to a medical diagnosis!
         This model would never be adopted by health care facilities because of its less
         than perfect accuracy, so if you have any problems, consult a human doctor.**
         
-        **Credits: Kamil Pytlak ([GitHub](https://github.com/kamilpytlak/))**
+        **Original app designed by: Kamil Pytlak ([GitHub](https://github.com/kamilpytlak/))**
         
         You can see the steps of building the model, evaluating it, and cleaning the data itself
         on my GitHub repo [here](https://github.com/gustavo-cupertino/project-4-group-6). 
@@ -147,7 +149,7 @@ def main():
        'GenHealth_Very good']]
     df = df[:1]
     df.fillna(0, inplace=True)
-    print(df.values.tolist())
+    # print(df.values.tolist())
     log_model = pickle.load(open(LOG_MODEL_PATH, "rb"))
 
     if submit:
