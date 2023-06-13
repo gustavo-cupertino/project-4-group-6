@@ -72,35 +72,21 @@ A Heart Disease Predictor app was created to allow users to input data and and r
 
 ***GitHub Repository Navigation***:
 
-1. Data Exploration
+1. Data Exploration: data_exploration.ipynb
 
-data_exploration.ipynb
+2. Data Visualization with matplotlib: data_visualization.ipynb ; plots (folder)
 
-2. Data Visualization with matplotlib
-
-data_visualization.ipynb
-plots (folder)
-
-3. Data Visualization with Tableau
+3. Data Visualization with Tableau: tableau (folder)
 
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash1/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash2/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dashboard3?publish=yes
 
-tableau (folder)
+4. Machine Learning modeling : ml_model.ipynb ; lr_model.pkl
 
-4. Machine Learning modeling 
+5. Streamlit app: heart_disease_app.py
 
-ml_model.ipynb
-lr_model.pkl
-
-5. Streamlit app
- 
-heart_disease_app.py
-
-6. App images
-
-images (folder)
+6. App images: images (folder)
 
 
 ***Data Sources***:
