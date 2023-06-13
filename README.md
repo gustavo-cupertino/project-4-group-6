@@ -4,6 +4,11 @@
 
 Heart disease or cardiovascular disease is a widespread health issue in Canada, affecting millions of people. According to the Heart and Stroke Foundation of Canada, heart disease accounts for approximately 29% of all deaths in the country. Several risk factors contribute to the development of heart disease, including high blood pressure, high cholesterol levels, smoking, obesity, diabetes, sedentary lifestyle, poor diet, family history of heart disease, and age.
 
+***Collaborators***:  
+
+Bhuvana Krish, Gustavo Cupertino Marinho Pires, Varun Vinodh, Hardik Gehlot
+
+
 ***Objective***:
 
 The objective of this project is to develop a machine learning-based app that can predict the likelihood of heart disease based on user input. The project aims to address the following tasks:
