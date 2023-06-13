@@ -35,11 +35,13 @@ Since the dataset is binary and linear in nature, regression models were used to
 
    a. Random Forest Classifier:
       The random forest classifier model performed poorly in predicting the positive class ("1").
-      ![Alt text](<Screenshot 2023-06-12 194604-1.png>)
+      ![Screenshot 2023-06-12 194604](https://github.com/gustavo-cupertino/project-4-group-6/assets/120690578/46ad1142-89a2-4f1f-b1ed-a5a31b29288d)
+
 
    b. Logistic Regression:
       The logistic regression model showed fair and equal predictions for both the positive and negative classes ("1" and "0").
-      ![Alt text](logisitic-1.png)
+     ![logisitic](https://github.com/gustavo-cupertino/project-4-group-6/assets/120690578/8cfea5d5-dc0f-4eec-99bb-bd2eeeaa63e7)
+
 
 3. Streamlit App:
 The project was deployed as a web application using Heroku. To use the app on a local machine, the necessary modules specified in the requirements.txt file should be installed. The app allows users to input relevant factors and receive a prediction of their heart health condition. It can be accessed by running the "streamlit run app.py" command.
