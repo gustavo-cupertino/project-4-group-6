@@ -68,4 +68,5 @@ A Heart Disease Predictor app was created to allow users to input data and and r
 ***Data Sources***:
 
 Kaggle.com: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
+
 Canada.ca: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/heart-disease-canada.html
