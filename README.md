@@ -78,9 +78,9 @@ A Heart Disease Predictor app was created to allow users to input data and and r
 
 3. Data Visualization with Tableau: tableau (folder)
 
-https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash1/Dashboard1?publish=yes
-https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash2/Dashboard2?publish=yes
-https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dashboard3?publish=yes
+      https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash1/Dashboard1?publish=yes
+      https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash2/Dashboard2?publish=yes
+      https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dashboard3?publish=yes
 
 4. Machine Learning modeling : ml_model.ipynb ; lr_model.pkl
 
@@ -90,11 +90,11 @@ https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dash
 
 7. Resources
 
-heart_2020_cleaned.csv (Raw data)
+      heart_2020_cleaned.csv (Raw data)
 
-data_cleaned.csv (Cleaned data for visualization)
+      data_cleaned.csv (Cleaned data for visualization)
 
-data_encoded.csv (Data ready for machine learning model)
+      data_encoded.csv (Data ready for machine learning model)
 
 8. Project Presentation.pptx
 
