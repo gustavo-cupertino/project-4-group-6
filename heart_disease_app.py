@@ -6,7 +6,7 @@ import pickle
 import sklearn
 
 DATASET_PATH = "../project-4-group-6/Resources/data_for_app.csv"
-LOG_MODEL_PATH = "lr_model_hardik.pkl"
+LOG_MODEL_PATH = "lr_model.pkl"
 
 def calculate_bmi(weight, height):
     bmi = weight / ((height/100) ** 2)
