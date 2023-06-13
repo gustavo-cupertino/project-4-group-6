@@ -75,9 +75,11 @@ data_visualization.ipynb
 plots (folder)
 
 3. Data Visualization with Tableau
+
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash1/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash2/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dashboard3?publish=yes
+
 tableau (folder)
 
 4. Machine Learning modeling 
