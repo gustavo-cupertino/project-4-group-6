@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
-# import polars as pl
 import numpy as np
 import pickle
 import sklearn
 
-DATASET_PATH = "../project-4-group-6/Resources/data_for_app.csv"
+
+DATASET_PATH = "../testing/Resources/data_cleaned.csv"
 LOG_MODEL_PATH = "lr_model.pkl"
 
 def calculate_bmi(weight, height):
@@ -15,8 +15,7 @@ def calculate_bmi(weight, height):
 def main():
     @st.cache_data(persist=True)
     def load_dataset() -> pd.DataFrame:
-        heart_df = pl.read_csv(DATASET_PATH)
-        heart_df = heart_df.to_pandas()
+        heart_df = pd.read_csv(DATASET_PATH)
         heart_df = pd.DataFrame(np.sort(heart_df.values, axis=0),
                                 index=heart_df.index,
                                 columns=heart_df.columns)
@@ -102,7 +101,7 @@ def main():
     tab = st.sidebar.radio("Navigation", ["Home", "BMI calculator", "About"])
 
     if tab == "Home":
-        st.image("images/doctor.png",
+        st.image("images/doctor.gif",
                  caption="I'll help you diagnose your heart health! - Dr. Logistic Regression",
                  width=200,
                 )
