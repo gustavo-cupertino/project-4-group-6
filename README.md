@@ -65,29 +65,29 @@ A Heart Disease Predictor app was created to allow users to input data and and r
 
 3. As the field of machine learning continues to evolve, its integration in healthcare holds promise for transforming the industry and delivering more effective and efficient healthcare services to individuals worldwide.
 
-***Repository Navigation***:
+***GitHub Repository Navigation***:
 
-# Data Exploration
+1. Data Exploration
 data_exploration.ipynb
 
-# Data Visualization with matplotlib
+2. Data Visualization with matplotlib
 data_visualization.ipynb
 plots (folder)
 
-# Data Visualization with Tableau
+3. Data Visualization with Tableau
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash1/Dashboard1?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash2/Dashboard2?publish=yes
 https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dashboard3?publish=yes
 tableau (folder)
 
-# Machine Learning modeling 
+4. Machine Learning modeling 
 ml_model.ipynb
 lr_model.pkl
 
-# Streamlit app 
+5. Streamlit app 
 heart_disease_app.py
 
-# App images
+6. App images
 images (folder)
 
 ***Data Sources***:
