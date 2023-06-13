@@ -94,3 +94,6 @@ https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dash
 Kaggle.com: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
 
 Canada.ca: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/heart-disease-canada.html
+
+Heartandstroke.ca:  https://www.heartandstroke.ca/
+
