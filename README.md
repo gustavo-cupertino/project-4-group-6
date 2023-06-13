@@ -88,6 +88,16 @@ https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dash
 
 6. App images: images (folder)
 
+7. Resources
+
+heart_2020_cleaned.csv (Raw data)
+
+data_cleaned.csv (Cleaned data for visualization)
+
+data_encoded.csv (Data ready for machine learning model)
+
+8. Project Presentation.pptx
+
 
 ***Data Sources***:
 
