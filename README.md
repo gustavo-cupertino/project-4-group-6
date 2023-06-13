@@ -19,9 +19,11 @@ The objective of this project is to develop a machine learning-based app that ca
 4. Develop a web application using Streamlit, integrating the machine learning models into the app.
 5. Enhance the app to enable prediction of heart disease based on user input.
 
+
 ***Data Collection***:
 
 The original dataset used for this project was released by the Centers for Disease Control and Prevention (CDC) and is a major part of the 2020 Behavioral Risk Factor Surveillance System (BRFSS) Survey. For the purpose of this project we used a data subset available in Kaggle as the starting point. 
+
 
 ***Languages/Tools***:
 
@@ -33,6 +35,7 @@ The original dataset used for this project was released by the Centers for Disea
    - Random Forest.
    - Logistic Regression.
 6. Web Application Development: Streamlit.
+
 
 ***Analysis***:
 
@@ -57,6 +60,7 @@ Since the dataset is binary and linear in nature, regression models were used to
 3. Streamlit App:
 A Heart Disease Predictor app was created to allow users to input data and and receive a prediction of their heart health condition. It can be accessed by running the "streamlit run heart_disease_app.py" command.  If you want to use this app on your local machine, make sure that you have installed the necessary modules. Please refer to the APP_LICENSE file. 
 
+
 ***Conclusion***:
 
 1. Machine learning has demonstrated significant potential in revolutionizing healthcare by enabling improved and early healthcare assessments.
@@ -65,12 +69,15 @@ A Heart Disease Predictor app was created to allow users to input data and and r
 
 3. As the field of machine learning continues to evolve, its integration in healthcare holds promise for transforming the industry and delivering more effective and efficient healthcare services to individuals worldwide.
 
+
 ***GitHub Repository Navigation***:
 
 1. Data Exploration
+
 data_exploration.ipynb
 
 2. Data Visualization with matplotlib
+
 data_visualization.ipynb
 plots (folder)
 
@@ -83,14 +90,18 @@ https://public.tableau.com/app/profile/gustavo.pires3886/viz/project4-Dash3/Dash
 tableau (folder)
 
 4. Machine Learning modeling 
+
 ml_model.ipynb
 lr_model.pkl
 
-5. Streamlit app 
+5. Streamlit app
+ 
 heart_disease_app.py
 
 6. App images
+
 images (folder)
+
 
 ***Data Sources***:
 
