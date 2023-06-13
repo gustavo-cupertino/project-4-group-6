@@ -1,4 +1,4 @@
-****Cardiovascular Condition App****
+****Heart Disease App****
 
 ***Introduction***:
 
@@ -21,7 +21,7 @@ The objective of this project is to develop a machine learning-based app that ca
 
 ***Data Collection***:
 
-The original dataset used for this project was obtained from the Centers for Disease Control and Prevention (CDC) and is a major part of the 2020 Behavioral Risk Factor Surveillance System (BRFSS) Survey.
+The original dataset used for this project was released by the Centers for Disease Control and Prevention (CDC) and is a major part of the 2020 Behavioral Risk Factor Surveillance System (BRFSS) Survey. For the purpose of this project we used a data subset available in Kaggle as the starting point. 
 
 ***Languages/Tools***:
 
@@ -37,7 +37,7 @@ The original dataset used for this project was obtained from the Centers for Dis
 ***Analysis***:
 
 1. Data Exploration:
-The raw data was explored to gain insights into the dataset. Visualizations were created using tools such as Tableau to analyze and understand the data better.
+The raw data was explored to gain insights into the dataset. Visualizations were created using tools such as Tableau to analyze and understand the data relationships and patterns.
 
 2. Machine Learning:
 Since the dataset is binary and linear in nature, regression models were used to distinguish the data. Two models were explored:
@@ -55,7 +55,7 @@ Since the dataset is binary and linear in nature, regression models were used to
 
 
 3. Streamlit App:
-The project was deployed as a web application using Heroku. To use the app on a local machine, the necessary modules specified in the requirements.txt file should be installed. The app allows users to input relevant factors and receive a prediction of their heart health condition. It can be accessed by running the "streamlit run app.py" command.
+A Heart Disease Predictor app was created to allow users to input data and and receive a prediction of their heart health condition. It can be accessed by running the "streamlit run heart_disease_app.py" command.  If you want to use this app on your local machine, make sure that you have installed the necessary modules. Please refer to the APP_LICENSE file. 
 
 ***Conclusion***:
 
@@ -65,6 +65,7 @@ The project was deployed as a web application using Heroku. To use the app on a 
 
 3. As the field of machine learning continues to evolve, its integration in healthcare holds promise for transforming the industry and delivering more effective and efficient healthcare services to individuals worldwide.
 
-***References***:
+***Data Sources***:
 
-Kaggle: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
+Kaggle.com: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
+Canada.ca: https://www.canada.ca/en/public-health/services/publications/diseases-conditions/heart-disease-canada.html
